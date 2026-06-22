@@ -3,8 +3,8 @@
 **Tugas Business Intelligence: Bike Rental Analytics**
 
 **Anggota Kelompok:**
-* Nama: Stefany Pricilia Randalembang
-* NIM: 105012410032
+* Nama: Ntobuo Alya
+* NIM: 105012410021
 
 **Deskripsi Tugas:**
 Tugas ini menganalisis dataset penyewaan sepeda menggunakan metode deskriptif, diagnostik, clustering, dan prediktif.
